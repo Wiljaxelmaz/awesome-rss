@@ -60,6 +60,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [feedparser](https://pypi.org/project/feedparser/) - (Python) Universal feed parser, handles RSS 0.9x and above, CDF, Atom 0.3 and above feeds.
 * [simplepie](http://simplepie.org/) - (PHP) SimplePie is a very fast and easy-to-use feed parser, written in PHP, that puts the 'simple' back into 'really simple syndication.
+* [gofeed](https://github.com/mmcdole/gofeed) - (Go) Gofeed a powerful and flexible library designed for parsing RSS, Atom, and JSON feeds across various formats and versions.
 
 # Contributing
 
