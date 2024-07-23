@@ -30,6 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Inoreader](https://www.inoreader.com/) - The content reader for power users who want to save time.
 * [NewsBlur](https://newsblur.com/) - NewsBlur is a personal news reader bringing people together to talk about the world.
 * [The Old Reader](https://theoldreader.com/) - All your news frmo one place. Works on mobile, tablet, or desktop, giving you all the content you want, when you want it.
+* [FeedLand](https://feedland.com) - A web service for managing lists of feeds, sharing them with others, and reading and sharing news.
 
 ## Self-Hosted Readers
 
